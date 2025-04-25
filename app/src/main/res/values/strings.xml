@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Faculty Review App Clone</string>
+    <string name="Faculty_name">Faculty name</string>
+    <string name="Faculty_ID">Faculty ID</string>
+    <string name="Faculty_subject">Faculty subject</string>
+    <string name="colon">:</string>
+</resources>
